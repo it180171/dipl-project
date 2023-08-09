@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#root {
+    display: grid;
+    grid-template-columns: 1fr clamp(10vw, 330px, 20vw);
+}

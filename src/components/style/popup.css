@@ -1,0 +1,32 @@
+.popup-container {
+    background-color: grey;
+}
+
+.info-icon-box {
+
+}
+
+.info-icon {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.popup {
+    width: 20vw;
+    height: 15vh;
+}
+
+.title {
+    font-size: 1.2rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info {
+    text-align: center;
+    text-transform: uppercase;
+    color: #004588;
+}
